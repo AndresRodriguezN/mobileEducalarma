@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">educalarmamobileux</string>
+    <string name="educalarma">EDUCALARMA</string>
+    <string name="crea_una">CREA UNA</string>
+    <string name="no_tienes_alarmas_creadas">No tienes alarmas creadas</string>
+    <string name="fondo_de_la_app">Fondo de la app</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todos">TODO</string>
+    <string name="todes">TODO</string>
+    <string name="permite_navegar">Permite navegar</string>
+    <string name="tien_algunos_cambios">tien algunos cambios</string>
+    <string name="back">back</string>
+    <string name="crea_mas_alarmas">CREA MAS ALARMAS</string>
+    <string name="esta_hacia_arriba">esta hacia arriba</string>
+    <string name="tien_de_todooo">TIEN DE TODOOO</string>
+</resources>
